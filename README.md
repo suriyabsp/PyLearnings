@@ -1,2 +1,2 @@
 # PyLearnings
-Python experiments &amp; learning 
+## My experiments with ~truth~ Python 😄
